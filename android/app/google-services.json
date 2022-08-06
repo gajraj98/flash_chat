@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090622706691",
+    "project_id": "flash-chat-5ab04",
+    "storage_bucket": "flash-chat-5ab04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090622706691:android:62a2a5f896b8ceb5daaa36",
+        "android_client_info": {
+          "package_name": "co.VaibhavSaxena.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090622706691-kn5ao70874h2n2341oh2eifdnd2dvb14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8DhrHmUGI5wtBY3dU9NgO3Uqh9h2aiwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090622706691-kn5ao70874h2n2341oh2eifdnd2dvb14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
